@@ -1,0 +1,1 @@
+msiexec /x "Print Folder Watcher Installation.msi" /l*vx log.txt

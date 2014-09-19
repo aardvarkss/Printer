@@ -1,0 +1,1 @@
+msiexec /i "Print Folder Watcher Installation.msi" /passive  READER8="true" INSTALLLEVEL="1000" RUN_AS_SERVICE="true" DEVICE="DefaultPrinter" PRINTER_ADDED="false" STOP_SERVICE_ON_PRINTER_ERROR="true" PRINT_ON_BOTH_SIDES="0" LOG_ALL_EVENTS="false"  TIMEOUT_IN_MINUTES="5" /l*vx log.txt
